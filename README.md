@@ -1,5 +1,5 @@
 # Age Calculator Project
-Project Link - https://github.com/poonam150/age-calculator
+Project URL - https://github.com/poonam150/age-calculator
 
 This is a simple Age Calculator app built to learn **NPM** and package management.
 
